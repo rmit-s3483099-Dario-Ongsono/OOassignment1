@@ -1,3 +1,4 @@
+package CheckerGame;
 
 public class MoveResult {
 

@@ -1,4 +1,5 @@
 
+package CheckerGame;
 
 import javafx.application.Application;
 import javafx.scene.Group;
